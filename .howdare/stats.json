@@ -810,11 +810,75 @@
   "dailyStats": [
     {
       "date": "2025-11-20",
-      "humanLines": 35,
-      "aiLines": 18,
-      "humanChars": 125,
-      "aiChars": 626,
-      "events": 39
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-21",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-23",
+      "humanLines": 122,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 92,
+      "events": 23
+    },
+    {
+      "date": "2025-11-24",
+      "humanLines": 212,
+      "aiLines": 1227,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-25",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-26",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-27",
+      "humanLines": 1227,
+      "aiLines": 127,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-28",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-29",
+      "humanLines": 212,
+      "aiLines": 1227,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
     }
   ],
   "lastUpdated": 1763650408466
