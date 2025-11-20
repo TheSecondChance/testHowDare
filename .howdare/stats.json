@@ -479,7 +479,15 @@
     "totalHumanChars": 10,
     "totalAiChars": 592
   },
-    "dailyStats": [
+  "dailyStats": [
+    {
+      "date": "2025-11-20",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
     {
       "date": "2025-11-21",
       "humanLines": 22,
