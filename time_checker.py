@@ -15,3 +15,9 @@ class TimeChecker:
         elapsed_time = time() - self.start_time
         self.start_time = None
         return elapsed_time
+    
+    def elapsed(self):
+        """Return the elapsed time without stopping the timer."""
+        if self.start_time is None:
+            raise ValueError("Timer is not running.")
+        return time() - self.start_time
