@@ -8,8 +8,10 @@ class TimeChecker:
         """Start the timer."""
         self.start_time = time()
 
-    def check_elapsed(self):
-        """Check the elapsed time since the timer was started."""
+    def stop(self):
+        """Stop the timer and return the elapsed time."""
         if self.start_time is None:
-            raise ValueError("Timer has not been started.")
-        return time() - self.start_time
+            raise ValueError("Timer is not running.")
+        elapsed_time = time() - self.start_time
+        self.start_time = None
+        return elapsed_time
