@@ -17,3 +17,15 @@ class TimeChecker:
     def reset(self):
         """Reset the timer."""
         self.start_time = time()
+
+class Tracker:
+    def __init__(self):
+        self.events = []
+
+    def log_event(self, event_name):
+        """Log an event with the current timestamp."""
+        self.events.append((event_name, time()))
+
+    def get_events(self):
+        """Return the list of logged events."""
+        return self.events
