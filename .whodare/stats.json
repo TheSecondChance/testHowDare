@@ -1,363 +1,25 @@
 {
   "version": "1.0",
-  "workspaceId": "c:\\Users\\alpha\\Documents\\testWhoDare",
+  "workspaceId": "c:\\Users\\alpha\\Documents\\testHowDare",
   "files": {
-    "time_calculater.py": {
-      "humanLines": 29,
-      "aiLines": 5,
-      "humanChars": 31,
-      "aiChars": 147,
-      "history": [
-        {
-          "timestamp": 1763830657885,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 2,
-          "charsAdded": 2,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830658886,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 4,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830659671,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830660094,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830660174,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830660252,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830662684,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830662920,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830663095,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830663206,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830663368,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830664375,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 2,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830664793,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830665097,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830665352,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830665472,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830666633,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 20,
-          "linesDeleted": 1,
-          "charsDeleted": 19,
-          "operation": "modify"
-        },
-        {
-          "timestamp": 1763830670100,
-          "fileName": "time_calculater.py",
-          "type": "ai",
-          "linesAdded": 3,
-          "charsAdded": 86,
-          "linesDeleted": 1,
-          "charsDeleted": 20,
-          "operation": "modify"
-        },
-        {
-          "timestamp": 1763830674272,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 2,
-          "charsAdded": 10,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830674911,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 0,
-          "charsAdded": 0,
-          "linesDeleted": 1,
-          "charsDeleted": 4,
-          "operation": "delete"
-        },
-        {
-          "timestamp": 1763830675533,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 2,
-          "charsAdded": 6,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830675840,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676008,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676121,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676268,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676405,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676649,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830676752,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830677682,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 1,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830678252,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 2,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830680697,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 1,
-          "charsAdded": 19,
-          "linesDeleted": 1,
-          "charsDeleted": 14,
-          "operation": "modify"
-        },
-        {
-          "timestamp": 1763830682075,
-          "fileName": "time_calculater.py",
-          "type": "human",
-          "linesAdded": 2,
-          "charsAdded": 10,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
-        },
-        {
-          "timestamp": 1763830682640,
-          "fileName": "time_calculater.py",
-          "type": "ai",
-          "linesAdded": 2,
-          "charsAdded": 61,
-          "linesDeleted": 1,
-          "charsDeleted": 8,
-          "operation": "modify"
-        }
-      ]
-    },
     "time_checker.py": {
-      "humanLines": 4,
-      "aiLines": 5,
-      "humanChars": 2,
-      "aiChars": 222,
+      "humanLines": 17,
+      "aiLines": 17,
+      "humanChars": 10,
+      "aiChars": 592,
       "history": [
         {
-          "timestamp": 1763830716736,
+          "timestamp": 1763646764502,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 0,
           "charsAdded": 0,
-          "linesDeleted": 5,
-          "charsDeleted": 222,
+          "linesDeleted": 9,
+          "charsDeleted": 324,
           "operation": "delete"
         },
         {
-          "timestamp": 1763830717140,
+          "timestamp": 1763646764582,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 0,
@@ -367,7 +29,7 @@
           "operation": "delete"
         },
         {
-          "timestamp": 1763830717786,
+          "timestamp": 1763646766504,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 2,
@@ -377,7 +39,7 @@
           "operation": "add"
         },
         {
-          "timestamp": 1763830718605,
+          "timestamp": 1763646766997,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 1,
@@ -387,7 +49,7 @@
           "operation": "add"
         },
         {
-          "timestamp": 1763830718693,
+          "timestamp": 1763646767175,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 1,
@@ -397,7 +59,7 @@
           "operation": "add"
         },
         {
-          "timestamp": 1763830718765,
+          "timestamp": 1763646767447,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 1,
@@ -407,7 +69,7 @@
           "operation": "add"
         },
         {
-          "timestamp": 1763830718850,
+          "timestamp": 1763646767467,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 1,
@@ -417,401 +79,181 @@
           "operation": "add"
         },
         {
-          "timestamp": 1763830721478,
+          "timestamp": 1763646769070,
           "fileName": "time_checker.py",
           "type": "human",
-          "linesAdded": 0,
-          "charsAdded": 0,
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763646771549,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763646773750,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763646774007,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763646774224,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763646774474,
+          "fileName": "time_checker.py",
+          "type": "ai",
+          "linesAdded": 3,
+          "charsAdded": 86,
           "linesDeleted": 1,
-          "charsDeleted": 1,
-          "operation": "delete"
+          "charsDeleted": 13,
+          "operation": "modify"
         },
         {
-          "timestamp": 1763830722890,
-          "fileName": "time_checker.py",
-          "type": "human",
-          "linesAdded": 0,
-          "charsAdded": 0,
-          "linesDeleted": 1,
-          "charsDeleted": 3,
-          "operation": "delete"
-        },
-        {
-          "timestamp": 1763830723377,
-          "fileName": "time_checker.py",
-          "type": "human",
-          "linesAdded": 0,
-          "charsAdded": 0,
-          "linesDeleted": 2,
-          "charsDeleted": 6,
-          "operation": "delete"
-        },
-        {
-          "timestamp": 1763830723798,
+          "timestamp": 1763646775604,
           "fileName": "time_checker.py",
           "type": "human",
           "linesAdded": 2,
-          "charsAdded": 2,
+          "charsAdded": 10,
           "linesDeleted": 0,
           "charsDeleted": 0,
           "operation": "add"
         },
         {
-          "timestamp": 1763830724260,
+          "timestamp": 1763646776567,
+          "fileName": "time_checker.py",
+          "type": "ai",
+          "linesAdded": 9,
+          "charsAdded": 284,
+          "linesDeleted": 2,
+          "charsDeleted": 10,
+          "operation": "modify"
+        },
+        {
+          "timestamp": 1763648114235,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 2,
+          "charsAdded": 6,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648115102,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 2,
+          "charsAdded": 6,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648117327,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648117550,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648117684,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648117815,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 1,
+          "linesDeleted": 0,
+          "charsDeleted": 0,
+          "operation": "add"
+        },
+        {
+          "timestamp": 1763648119382,
+          "fileName": "time_checker.py",
+          "type": "human",
+          "linesAdded": 1,
+          "charsAdded": 22,
+          "linesDeleted": 1,
+          "charsDeleted": 8,
+          "operation": "modify"
+        },
+        {
+          "timestamp": 1763648120375,
           "fileName": "time_checker.py",
           "type": "ai",
           "linesAdded": 5,
           "charsAdded": 222,
-          "linesDeleted": 0,
-          "charsDeleted": 0,
-          "operation": "add"
+          "linesDeleted": 1,
+          "charsDeleted": 22,
+          "operation": "modify"
         }
       ]
     }
   },
   "globalHistory": [
     {
-      "timestamp": 1763830657885,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 2,
-      "charsAdded": 2,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830658886,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 4,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830659671,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830660094,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830660174,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830660252,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830662684,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830662920,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830663095,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830663206,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830663368,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830664375,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 2,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830664793,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830665097,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830665352,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830665472,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830666633,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 20,
-      "linesDeleted": 1,
-      "charsDeleted": 19,
-      "operation": "modify"
-    },
-    {
-      "timestamp": 1763830670100,
-      "fileName": "time_calculater.py",
-      "type": "ai",
-      "linesAdded": 3,
-      "charsAdded": 86,
-      "linesDeleted": 1,
-      "charsDeleted": 20,
-      "operation": "modify"
-    },
-    {
-      "timestamp": 1763830674272,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 2,
-      "charsAdded": 10,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830674911,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 0,
-      "charsAdded": 0,
-      "linesDeleted": 1,
-      "charsDeleted": 4,
-      "operation": "delete"
-    },
-    {
-      "timestamp": 1763830675533,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 2,
-      "charsAdded": 6,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830675840,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676008,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676121,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676268,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676405,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676649,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830676752,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830677682,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 1,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830678252,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 2,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830680697,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 1,
-      "charsAdded": 19,
-      "linesDeleted": 1,
-      "charsDeleted": 14,
-      "operation": "modify"
-    },
-    {
-      "timestamp": 1763830682075,
-      "fileName": "time_calculater.py",
-      "type": "human",
-      "linesAdded": 2,
-      "charsAdded": 10,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
-    },
-    {
-      "timestamp": 1763830682640,
-      "fileName": "time_calculater.py",
-      "type": "ai",
-      "linesAdded": 2,
-      "charsAdded": 61,
-      "linesDeleted": 1,
-      "charsDeleted": 8,
-      "operation": "modify"
-    },
-    {
-      "timestamp": 1763830716736,
+      "timestamp": 1763646764502,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 0,
       "charsAdded": 0,
-      "linesDeleted": 5,
-      "charsDeleted": 222,
+      "linesDeleted": 9,
+      "charsDeleted": 324,
       "operation": "delete"
     },
     {
-      "timestamp": 1763830717140,
+      "timestamp": 1763646764582,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 0,
@@ -821,7 +263,7 @@
       "operation": "delete"
     },
     {
-      "timestamp": 1763830717786,
+      "timestamp": 1763646766504,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 2,
@@ -831,7 +273,7 @@
       "operation": "add"
     },
     {
-      "timestamp": 1763830718605,
+      "timestamp": 1763646766997,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 1,
@@ -841,7 +283,7 @@
       "operation": "add"
     },
     {
-      "timestamp": 1763830718693,
+      "timestamp": 1763646767175,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 1,
@@ -851,7 +293,7 @@
       "operation": "add"
     },
     {
-      "timestamp": 1763830718765,
+      "timestamp": 1763646767447,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 1,
@@ -861,7 +303,7 @@
       "operation": "add"
     },
     {
-      "timestamp": 1763830718850,
+      "timestamp": 1763646767467,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 1,
@@ -871,71 +313,245 @@
       "operation": "add"
     },
     {
-      "timestamp": 1763830721478,
+      "timestamp": 1763646769070,
       "fileName": "time_checker.py",
       "type": "human",
-      "linesAdded": 0,
-      "charsAdded": 0,
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763646771549,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763646773750,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763646774007,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763646774224,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763646774474,
+      "fileName": "time_checker.py",
+      "type": "ai",
+      "linesAdded": 3,
+      "charsAdded": 86,
       "linesDeleted": 1,
-      "charsDeleted": 1,
-      "operation": "delete"
+      "charsDeleted": 13,
+      "operation": "modify"
     },
     {
-      "timestamp": 1763830722890,
-      "fileName": "time_checker.py",
-      "type": "human",
-      "linesAdded": 0,
-      "charsAdded": 0,
-      "linesDeleted": 1,
-      "charsDeleted": 3,
-      "operation": "delete"
-    },
-    {
-      "timestamp": 1763830723377,
-      "fileName": "time_checker.py",
-      "type": "human",
-      "linesAdded": 0,
-      "charsAdded": 0,
-      "linesDeleted": 2,
-      "charsDeleted": 6,
-      "operation": "delete"
-    },
-    {
-      "timestamp": 1763830723798,
+      "timestamp": 1763646775604,
       "fileName": "time_checker.py",
       "type": "human",
       "linesAdded": 2,
-      "charsAdded": 2,
+      "charsAdded": 10,
       "linesDeleted": 0,
       "charsDeleted": 0,
       "operation": "add"
     },
     {
-      "timestamp": 1763830724260,
+      "timestamp": 1763646776567,
+      "fileName": "time_checker.py",
+      "type": "ai",
+      "linesAdded": 9,
+      "charsAdded": 284,
+      "linesDeleted": 2,
+      "charsDeleted": 10,
+      "operation": "modify"
+    },
+    {
+      "timestamp": 1763648114235,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 2,
+      "charsAdded": 6,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648115102,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 2,
+      "charsAdded": 6,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648117327,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648117550,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648117684,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648117815,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 1,
+      "linesDeleted": 0,
+      "charsDeleted": 0,
+      "operation": "add"
+    },
+    {
+      "timestamp": 1763648119382,
+      "fileName": "time_checker.py",
+      "type": "human",
+      "linesAdded": 1,
+      "charsAdded": 22,
+      "linesDeleted": 1,
+      "charsDeleted": 8,
+      "operation": "modify"
+    },
+    {
+      "timestamp": 1763648120375,
       "fileName": "time_checker.py",
       "type": "ai",
       "linesAdded": 5,
       "charsAdded": 222,
-      "linesDeleted": 0,
-      "charsDeleted": 0,
-      "operation": "add"
+      "linesDeleted": 1,
+      "charsDeleted": 22,
+      "operation": "modify"
     }
   ],
   "sessionStats": {
-    "totalHumanLines": 33,
-    "totalAiLines": 10,
-    "totalHumanChars": 33,
-    "totalAiChars": 369
+    "totalHumanLines": 17,
+    "totalAiLines": 17,
+    "totalHumanChars": 10,
+    "totalAiChars": 592
   },
   "dailyStats": [
     {
-      "date": "2025-11-22",
-      "humanLines": 42,
-      "aiLines": 10,
-      "humanChars": 108,
-      "aiChars": 369,
-      "events": 45
+      "date": "2025-11-20",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-21",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-23",
+      "humanLines": 122,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 92,
+      "events": 23
+    },
+    {
+      "date": "2025-11-24",
+      "humanLines": 212,
+      "aiLines": 1227,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-25",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-26",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-27",
+      "humanLines": 1227,
+      "aiLines": 127,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-21",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-24",
+      "humanLines": 212,
+      "aiLines": 1227,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
     }
   ],
-  "lastUpdated": 1763830724261
+  "lastUpdated": 1763648120375
 }
